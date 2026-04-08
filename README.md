@@ -8,4 +8,5 @@
 Я всегда за креатив! Очень горю, когда делаю что-то интересное и полезное!  
 
 Учебный проект (игра кликер): https://yegor52.github.io/clicker-kitchen.io/  
+ToDo List на React: https://yegor52.github.io/todo-react/
 Figma: https://www.figma.com/design/LklnX4e2Z05Kmfq4wm0ajd/portfolio?t=2faiJHqm5bJA8dqv-0
